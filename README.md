@@ -7,7 +7,7 @@ In Single-Channel-Queuing Problem, one customer is served at a single time. If t
 -  👋 Hi, I’m [Md. Naimur Rahman](https://github.com/Naimur-Nidrit)
 -  👋 Hi, I’m [Hossain Mohamad Nayeem]()
 -  👋 Hi, I’m [Shaheed Abdullah]()
--  
+
 The value of second to twenty value are find by using this function:
 ## What is Probability Distribution
 - ***Probability distribution*** yields the possible outcomes for any ***random event***. It is also defined based on the underlying sample space as a set of possible outcomes of any random experiment. These settings could be a set of real numbers or a set of vectors or set of any entities. It is a part of probability and statistics. ***Poisson Distribution*** and ***Exponential Distribution*** are two types of Probability Distribution **among 7 types*** of probability distribuiton.
