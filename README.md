@@ -4,7 +4,7 @@ In Single-Channel-Queuing Problem, one customer is served at a single time. If t
 ## Team-Impossible members
 -  👋 Hi, I’m [Yeasinul Alam](https://github.com/yeasinul)
 -  👋 Hi, I’m [Mishan](https://github.com/1mishan1)
--  👋 Hi, I’m [Md. Naimur Rahman](https://github.com/Naimur-Nidrit)
+-  👋 Hi, I’m [Md. Naimur Rahman](https://github.com/naimur404)
 -  👋 Hi, I’m [Hossain Mohamad Nayeem]()
 -  👋 Hi, I’m [Shaheed Abdullah]()
 
